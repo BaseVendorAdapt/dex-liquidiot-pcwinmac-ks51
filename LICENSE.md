@@ -1,4 +1,4 @@
-# 
+# Avanzado dex liquidity bot plugins para Mac OS | Nuevo dex liquidity bot plugins para PC Windows. Con protección contra front-running y detección de ataques sandwich — optimizado para el máximo rendimiento en cada plataforma.
 
 
 
